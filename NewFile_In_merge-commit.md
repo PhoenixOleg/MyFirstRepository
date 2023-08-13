@@ -1,2 +1,2 @@
-# Файл NewFile_In_merge-commit
-Файл создан в рамках Задания 2.6.3 в ветке merge-commit
+п»ї# Р¤Р°Р№Р» NewFile_In_merge-commit
+Р¤Р°Р№Р» СЃРѕР·РґР°РЅ РІ СЂР°РјРєР°С… Р—Р°РґР°РЅРёСЏ 2.6.3 РІ РІРµС‚РєРµ merge-commit
