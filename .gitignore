@@ -1,1 +1,3 @@
+# Предварительно удалил папку .vs из кэша командами 'cd C:\SkillFactory\Git' и 'git rm -r --cached ".vs/"' в Git CMD
 /.vs
+myverysecrets.pwd
